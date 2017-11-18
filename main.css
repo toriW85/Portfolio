@@ -1,23 +1,47 @@
 body {
   font-family: cursive, fantasy, sans-serif;
   padding-left: 10px;
-  color: #FFF0F5;
+  color: #9400D3;
+  background: url(background1.jpg) black;
+  background-size: cover;
+}
+
+#title {
+  text-decoration: underline;
 }
 
 .header {
   text-align: center;
-  font-size; 30px;
   font-weight: bold;
-  color: #9400D3;
+  color: #FFE4C4;
 }
 
 .tagline {
-  text-align: center;
+  text-align: left;
   font-style: italic;
-  color: #9400D3;
+  background-color: #9400D3;
+  background-size: contain;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
 }
 
 .skills {
-  background-color: #708090;
-  
+  background-color: #FFE4C4;
+  text-align: left;
+  border: 2px; black;
+  width: 70%;
+  float: center;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+
+.contact {
+  background-color: #FFE4C4;
+  align: center;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  width: 55%
 }
