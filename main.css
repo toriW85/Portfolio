@@ -1,0 +1,23 @@
+body {
+  font-family: cursive, fantasy, sans-serif;
+  padding-left: 10px;
+  color: #FFF0F5;
+}
+
+.header {
+  text-align: center;
+  font-size; 30px;
+  font-weight: bold;
+  color: #9400D3;
+}
+
+.tagline {
+  text-align: center;
+  font-style: italic;
+  color: #9400D3;
+}
+
+.skills {
+  background-color: #708090;
+  
+}
