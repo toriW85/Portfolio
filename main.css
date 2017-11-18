@@ -13,13 +13,13 @@ body {
 .header {
   text-align: center;
   font-weight: bold;
-  color: #FFE4C4;
+  color: #9400D3;
 }
 
 .tagline {
   text-align: left;
   font-style: italic;
-  background-color: #9400D3;
+  background-color: #FFFFF0;
   background-size: contain;
   padding-bottom: 5px;
   padding-left: 15px;
@@ -27,7 +27,7 @@ body {
 }
 
 .skills {
-  background-color: #FFE4C4;
+  background-color: #FFFFF0;
   text-align: left;
   border: 2px; black;
   width: 70%;
@@ -38,7 +38,7 @@ body {
 }
 
 .contact {
-  background-color: #FFE4C4;
+  background-color: #FFFFF0;
   align: center;
   padding-bottom: 5px;
   padding-left: 15px;
